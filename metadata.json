@@ -1,0 +1,6 @@
+{
+  "name": "BuildSync - Construction Field & Client Sync",
+  "description": "Zero double-entry construction synchronization platform bridging contractor field logging with client-verified financial ledgers, site photos, and labor audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
